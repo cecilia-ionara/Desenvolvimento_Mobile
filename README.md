@@ -1,2 +1,7 @@
 # Desenvolvimento_Mobile
-Códigos criados nas aulas de desenvolvimento mobile
+Este repositório que compila todos os códigos criados durante meu estudo em HTML para o desenvolvimento móvel, foi meu primeiro contato com HTML E JavaScript.
+
+
+
+
+
